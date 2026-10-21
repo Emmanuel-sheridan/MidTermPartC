@@ -1,7 +1,7 @@
 
 package midtermexam_versiona_extensioncode;
 
-
+// This Comment is for Question 5 Part B
 public class UserProfile 
 {
     
